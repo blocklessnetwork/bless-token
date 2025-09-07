@@ -1,6 +1,6 @@
 {
-  "name": "Bless Test Token",
-  "symbol": "tBLESS",
-  "description": "Bless is a community-driven token on Solana.",
-  "image": "https://raw.githubusercontent.com/blocklessnetwork/bless-token/refs/heads/devnet/BLESS.png"
+  "name": "Bless Token",
+  "symbol": "BLESS",
+  "description": "The world's first shared computer.",
+  "image": "https://raw.githubusercontent.com/blocklessnetwork/bless-token/refs/heads/mainnet/BLESS.png"
 }
